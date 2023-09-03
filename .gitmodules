@@ -1,0 +1,3 @@
+[submodule "docs/api-docs/blox-python-sdk"]
+	path = docs/api-docs/blox-python-sdk
+	url = https://github.com/mad-street-den/blox-python-sdk/
